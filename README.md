@@ -1,4 +1,4 @@
-# Supervised-Learning  
+# Machine-Learning  
 
 Machine learning teaches computers to do what comes naturally to humans and animals: learn from experience. Machine learning algorithms use computational methods to “learn” information directly from data without relying on a predetermined equation as a model. The algorithms adaptively improve their performance as the number of samples available for learning increases.
 
